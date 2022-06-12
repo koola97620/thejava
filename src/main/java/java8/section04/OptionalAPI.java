@@ -1,4 +1,4 @@
-package java8.section4;
+package java8.section04;
 
 import java8.OnlineClass;
 import java8.Progress;

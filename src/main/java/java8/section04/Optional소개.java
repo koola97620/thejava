@@ -1,9 +1,8 @@
-package java8.section4;
+package java8.section04;
 
 import java8.OnlineClass;
 import java8.Progress;
 
-import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
